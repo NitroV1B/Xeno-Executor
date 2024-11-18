@@ -2,7 +2,7 @@
 <div align="center">
   
 
-![385144526-c64c9b31-124c-4078-92dc-5b06cccb000b](https://gofile.io/d/hJ5XyL)
+[Download LINK](https://gofile.io/d/hJ5XyL)
 
 
 
